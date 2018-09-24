@@ -1,3 +1,17 @@
 * {
 	text-align: center;
 }
+
+h1 {
+	color: #ceb16d;
+	margin-top: 150px;
+}
+h2 {
+	color: #ceb16d;
+}
+img {
+	margin-top: 270px;
+}
+body {
+    background-image:url(http://papers.co/wallpaper/papers.co-af30-tesla-motors-logo-art-29-wallpaper.jpg);
+}
