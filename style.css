@@ -9,9 +9,14 @@ h1 {
 h2 {
 	color: #ceb16d;
 }
-img {
-	margin-top: 270px;
+.photo1 {
+	margin-top: 50px;
+	margin-right: 800px;
 }
 body {
-    background-image:url(http://papers.co/wallpaper/papers.co-af30-tesla-motors-logo-art-29-wallpaper.jpg);
+    background-color: black;
+}
+.photo2 {
+	margin-top: -200px;
+	margin-left: 750px;
 }
